@@ -113,6 +113,8 @@ The dataset contains information about loan applicants and their application det
 📌 Dashboard Screenshot: (added in repo)  
 📌 File: Loan_Approval_Dashboard.pbix
 
+![Dashboard](dashboard_screenshot.png) 
+
  ---
 
 ## 📁 Project Files

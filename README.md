@@ -104,6 +104,17 @@ The dataset contains information about loan applicants and their application det
 
 ---
 
+## 📊 Power BI Dashboard
+
+- Created interactive dashboard for loan approval analysis  
+- Visualized key business insights from Python EDA  
+- Helps understand approval trends across multiple factors  
+
+📌 Dashboard Screenshot: (added in repo)  
+📌 File: Loan_Approval_Dashboard.pbix
+
+ ---
+
 ## 📁 Project Files
 
 - `Loan_Approval_Analysis.ipynb` – Full analysis notebook  

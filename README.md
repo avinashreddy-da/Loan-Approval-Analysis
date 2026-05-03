@@ -107,7 +107,7 @@ The dataset contains information about loan applicants and their application det
 ## 📁 Project Files
 
 - `Loan_Approval_Analysis.ipynb` – Full analysis notebook  
-- `dataset.csv` – Source dataset  
+- `loan_dataset.csv` – Source dataset  
 - `charts/` – Saved visualizations  
 
 ---

@@ -6,7 +6,7 @@ Banks and financial institutions receive thousands of loan applications, but app
 
 The main challenge is identifying reliable applicants while minimizing lending risk.
 
-This project analyzes applicant financial and demographic data to understand which factors most strongly influence loan approval decisions, repayment behavior, and overall lending risk.
+This project analyzes applicant financial and demographic data to understand which factors most strongly influence loan approval decisions, repayment behavior and overall lending risk.
 
 ---
 
@@ -14,7 +14,7 @@ This project analyzes applicant financial and demographic data to understand whi
 
 This project performs **Exploratory Data Analysis (EDA)** on a loan approval dataset to understand the key factors influencing loan approval decisions.
 
-The analysis focuses on identifying patterns in applicant characteristics such as income, age, education, employment experience, loan intent, home ownership, credit history, and previous loan defaults.
+The analysis focuses on identifying patterns in applicant characteristics such as income, age, education, employment experience, loan intent, home ownership, credit history and previous loan defaults.
 
 The goal is to extract **business insights that explain how financial and demographic factors impact loan approval outcomes.**
 

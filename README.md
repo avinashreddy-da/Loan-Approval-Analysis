@@ -146,7 +146,6 @@ The insights from this project can also help improve customer risk evaluation an
 
 - `Loan_Approval_Analysis.ipynb` – Full analysis notebook  
 - `loan_dataset.csv` – Source dataset  
-- `charts/` – Saved visualizations  
 - `Loan_Approval_Dashboard.pbix` – Power BI dashboard  
 
 ---
